@@ -2608,3 +2608,30 @@
   width:41px;
   white-space:nowrap;
 }
+#u120_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:55px;
+  height:53px;
+}
+#u120 {
+  border-width:0px;
+  position:absolute;
+  left:296px;
+  top:152px;
+  width:45px;
+  height:43px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u120_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:41px;
+  word-wrap:break-word;
+}
